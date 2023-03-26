@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+<h1>Maaş Otomasyon</h1>
+
+<h2>React, Tailwind css çalışması</h2>
+
+<h3>Görüntüler</h3>
+
+! []
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
