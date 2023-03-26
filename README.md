@@ -4,7 +4,7 @@
 
 <h3>Görüntüler</h3>
 
-! [] (https://github.com/darahta/Maas-Otomasyon/blob/main/ezgif.com-video-to-gif.gif)
+![](https://github.com/darahta/Maas-Otomasyon/blob/main/ezgif.com-video-to-gif.gif)
 
 
 
